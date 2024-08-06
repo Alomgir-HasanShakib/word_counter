@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 90%;
+    height: 100vh;
+    margin: auto;
+    text-align: center;
+    padding-top: 50%;
+}
+#text{
+    resize: none;
+   min-height: 200px;
+   min-width: 300px;
+   font-size: 18px;
+   outline: none;
+}
+.heading{
+    font-size: 30px;
+    font-weight: 700;
+    color: blue;
+    margin-bottom: 30px;
+}
+
+.words{
+    font-size: 25px;
+}
